@@ -1,2 +1,2 @@
-https://sangni3/study-github.io/index
+https://study-github.io/index
 
